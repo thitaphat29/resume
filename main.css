@@ -1,0 +1,30 @@
+body{
+	margin: 50px 200px;
+
+}
+
+address{
+  text-align: right;
+  background-color: #e2e2e2;
+}
+
+img{
+  width: 120px;
+  padding:20px 20px 0;
+
+}
+
+div{
+  display: inline-block;
+ 
+}
+span{
+	float: right;
+}
+
+.container{
+	margin-top:5px;
+	border: 1px solid #e0e0e0;
+	padding: 30px;
+	min-height: 800px;
+}
